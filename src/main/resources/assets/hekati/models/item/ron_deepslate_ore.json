@@ -1,6 +1,3 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "hekati:item/ron_deepslate_ore"
-  }
+  "parent": "hekati:block/ron_deepslate_ore"
 }
