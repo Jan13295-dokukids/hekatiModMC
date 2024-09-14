@@ -13,7 +13,7 @@ import net.minecraft.sound.BlockSoundGroup;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.math.intprovider.UniformIntProvider;
 import net.sckj.hekati.Hekati;
-
+// IGNORE PLEASE!
 public class ModBlocks {
 public static final Block BLOCK_OF_RAW_RON = registerBlock("block_of_raw_ron",
         new Block(AbstractBlock.Settings.create().strength(3f).requiresTool()));
