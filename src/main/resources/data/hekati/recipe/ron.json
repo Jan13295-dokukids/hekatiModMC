@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "hekati:block_of_ron"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "hekati:ron"
+  }
+}

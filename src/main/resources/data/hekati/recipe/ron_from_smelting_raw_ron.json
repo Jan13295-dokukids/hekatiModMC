@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.2,
+  "group": "ron",
+  "ingredient": {
+    "item": "hekati:raw_ron"
+  },
+  "result": {
+    "id": "hekati:ron"
+  }
+}
