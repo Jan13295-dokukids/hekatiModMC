@@ -13,6 +13,8 @@ import net.minecraft.util.Identifier;
 import net.sckj.hekati.Hekati;
 
 public class ModBlocks {
+public static final Block BLOCK_OF_RAW_RON = registerBlock("block_of_raw_ron",
+        new Block(AbstractBlock.Settings.create().strength(3f).requiresTool()));
 public static final Block BLOCK_OF_RON = registerBlock("block_of_ron",
         new Block(AbstractBlock.Settings.create().strength(4f)
                 .requiresTool().sounds(BlockSoundGroup.AMETHYST_BLOCK)));
@@ -33,6 +35,7 @@ private static Block registerBlock(String name, Block block) {
         Hekati.LOGGER.info("Registering Mod Blocks for " + Hekati.MOD_ID);
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.BUILDING_BLOCKS).register(entries -> {
          entries.add(ModBlocks.BLOCK_OF_RON);
+         entries.add(ModBlocks.BLOCK_OF_RAW_RON);
         });
 }
 

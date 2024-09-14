@@ -3,6 +3,7 @@ package net.sckj.hekati;
 import net.fabricmc.api.ModInitializer;
 
 import net.sckj.hekati.block.ModBlocks;
+import net.sckj.hekati.items.ModItemGroups;
 import net.sckj.hekati.items.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -20,5 +21,6 @@ public class Hekati implements ModInitializer {
 	public void onInitialize() {
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
+		ModItemGroups.registerItemGroups();
 	}
 }
