@@ -3,5 +3,7 @@
   "item.hekati.raw_ron": "Raw Ron",
 
   "block.hekati.block_of_ron": "Block of Ron",
-  "block.hekati.block_of_raw_ron": "Block of Raw Ron"
+  "block.hekati.block_of_raw_ron": "Block of Raw Ron",
+
+  "itemgroup.hekati.hekati_items": "Hekati Items"
 }
