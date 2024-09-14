@@ -1,1 +1,1 @@
-A Minecraft mode in development
+A Minecraft mod in development
