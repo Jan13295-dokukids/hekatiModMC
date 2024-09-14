@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "hekati:block_of_raw_ron",
+    "hekati:block_of_ron",
+    "hekati:ron_ore"
+
+  ]
+}

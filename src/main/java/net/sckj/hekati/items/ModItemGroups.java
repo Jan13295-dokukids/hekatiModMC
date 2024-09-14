@@ -21,6 +21,8 @@ public class ModItemGroups {
                         entries.add(ModItems.RAW_RON);
                         entries.add(ModBlocks.BLOCK_OF_RON);
                         entries.add(ModBlocks.BLOCK_OF_RAW_RON);
+                        entries.add(ModBlocks.RON_ORE);
+                        entries.add(ModBlocks.RON_DEEPSLATE_ORE);
                     })
                     .build());
     public static void registerItemGroups() {
