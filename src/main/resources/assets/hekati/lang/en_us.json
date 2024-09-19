@@ -1,6 +1,7 @@
 {
   "item.hekati.ron": "Ron",
   "item.hekati.raw_ron": "Raw Ron",
+  "item.hekati.onecbuk": "One CBuck",
 
   "block.hekati.block_of_ron": "Block of Ron",
   "block.hekati.block_of_raw_ron": "Block of Raw Ron",
@@ -8,4 +9,5 @@
   "block.hekati.ron_deepslate_ore": "Ron Deepslate Ore",
 
   "itemgroup.hekati.hekati_items": "Hekati Items"
+
 }

@@ -23,6 +23,7 @@ public class ModItemGroups {
                         entries.add(ModBlocks.BLOCK_OF_RAW_RON);
                         entries.add(ModBlocks.RON_ORE);
                         entries.add(ModBlocks.RON_DEEPSLATE_ORE);
+                        entries.add(ModItems.ONECBUK);
                     })
                     .build());
     public static void registerItemGroups() {
